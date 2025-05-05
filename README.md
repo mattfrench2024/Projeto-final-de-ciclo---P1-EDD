@@ -35,7 +35,16 @@ Identificação e exibição do(s) contato(s) mais velho(s)
 # Tecnologias e Conceitos
 Linguagem: C++
 
-Bibliotecas: <iostream>, <string>, <ctime>, <vector>, <sstream>, entre outras
+Bibliotecas: 
+<iostream>  Entrada e saída padrão (cout, cin)
+#include <locale.h>    Configuração de localização (setlocale)
+#include <string>     Manipulação de strings (std::string)
+#include <ctime>      Trabalhar com data e hora  (localtime)
+#include <cmath>      Funções matemáticas (como floor)
+#include <cctype>     Manipulação de caracteres (toupper, isalpha, etc.)
+#include <fstream>    Leitura e escrita em arquivos (ifstream, ofstream)
+#include <vector>     Vetores dinâmicos (std::vector)
+#include <sstream>     Fluxo de string (std::stringstream)ras
 
 Conceitos: Classes, Vetores, Manipulação de String, Data/Hora, Entrada/Saída de dados
 
